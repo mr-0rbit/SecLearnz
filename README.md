@@ -243,9 +243,6 @@ OWASP Code of Ethics
 
 **Muhammad Hamza Zahid**
 
-Cybersecurity Student
-Ethical Hacking Enthusiast
-
 ---
 
 ## ⭐ Support
